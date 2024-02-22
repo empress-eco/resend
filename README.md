@@ -1,5 +1,6 @@
 <div align="center">
-![Empress Resend Integration Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 <p align="center">
 Unleash the power of automated email marketing with Empress Resend Integration.
 <br />
